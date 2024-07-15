@@ -4,8 +4,8 @@
 Anon Aadhaar is a zero-knowledge protocol that allows Aadhaar ID owners to prove their identity in a privacy-preserving way.
 
 ### Looking for more information?
-- Documentation: [https://anon-aadhaar-documentation.vercel.app/](https://anon-aadhaar-documentation.vercel.app/)
-- Demo: [https://anon-aadhaar-example.vercel.app/](https://anon-aadhaar-example.vercel.app/)
+- Documentation: [https://anon-aadhaar-documentation.vercel.app/](https://documentation.anon-aadhaar.pse.dev/)
+- Demo: [https://anon-aadhaar-example.vercel.app/](https://boilerplate.anon-aadhaar.pse.dev/)
 - Telegram: [https://t.me/anon_aadhaar](https://t.me/anon_aadhaar)
 
 ### Who are we?
